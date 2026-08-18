@@ -1,0 +1,124 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "O'tkan kunlar",
+      "author": "Abdulla Qodiriy",
+      "genre": "Roman",
+      "price": 45000,
+      "rating": 4.8,
+      "cover": "https://placehold.co/200x280?text=O%27tkan+kunlar",
+      "description": "O'zbek adabiyotining ilk romani, Otabek va Kumush sevgisi haqida."
+    },
+    {
+      "id": 2,
+      "title": "Sarob",
+      "author": "Abdulla Qahhor",
+      "genre": "Roman",
+      "price": 38000,
+      "rating": 4.5,
+      "cover": "https://placehold.co/200x280?text=Sarob",
+      "description": "Ikkinchi jahon urushi arafasidagi ziyoli hayoti haqida roman."
+    },
+    {
+      "id": 3,
+      "title": "Sariq devni minib",
+      "author": "Xudoyberdi To'xtaboyev",
+      "genre": "Bolalar adabiyoti",
+      "price": 25000,
+      "rating": 4.9,
+      "cover": "https://placehold.co/200x280?text=Sariq+dev",
+      "description": "Bolalar uchun sarguzasht-fantastik qissa."
+    },
+    {
+      "id": 4,
+      "title": "Mehrobdan chayon",
+      "author": "Abdulla Qodiriy",
+      "genre": "Tarixiy roman",
+      "price": 42000,
+      "rating": 4.6,
+      "cover": "https://placehold.co/200x280?text=Mehrobdan+chayon",
+      "description": "XIX asr Qo'qon xonligi davri tasvirlangan tarixiy roman."
+    },
+    {
+      "id": 5,
+      "title": "Dunyoning ishlari",
+      "author": "O'tkir Hoshimov",
+      "genre": "Hikoyalar",
+      "price": 30000,
+      "rating": 4.7,
+      "cover": "https://placehold.co/200x280?text=Dunyoning+ishlari",
+      "description": "Hayotiy mavzudagi hikoyalar to'plami."
+    },
+    {
+      "id": 6,
+      "title": "Yulduzli tunlar",
+      "author": "Pirimqul Qodirov",
+      "genre": "Tarixiy roman",
+      "price": 40000,
+      "rating": 4.4,
+      "cover": "https://placehold.co/200x280?text=Yulduzli+tunlar",
+      "description": "Zahiriddin Muhammad Bobur hayoti haqida tarixiy roman."
+    },
+    {
+      "id": 7,
+      "title": "Kecha va kunduz",
+      "author": "Cho'lpon",
+      "genre": "Roman",
+      "price": 35000,
+      "rating": 4.6,
+      "cover": "https://placehold.co/200x280?text=Kecha+va+kunduz",
+      "description": "XX asr boshidagi Turkiston hayoti tasvirlangan roman."
+    },
+    {
+      "id": 8,
+      "title": "Alpomish",
+      "author": "Xalq dostoni",
+      "genre": "Doston",
+      "price": 28000,
+      "rating": 4.9,
+      "cover": "https://placehold.co/200x280?text=Alpomish",
+      "description": "O'zbek xalq og'zaki ijodining eng mashhur dostoni."
+    },
+    {
+      "id": 9,
+      "title": "Ikki eshik orasi",
+      "author": "O'tkir Hoshimov",
+      "genre": "Roman",
+      "price": 37000,
+      "rating": 4.8,
+      "cover": "https://placehold.co/200x280?text=Ikki+eshik+orasi",
+      "description": "Oila va inson qadri haqida chuqur ta'sirli roman."
+    },
+    {
+      "id": 10,
+      "title": "Bo'ronlarda bardosh",
+      "author": "Mirkarim Osim",
+      "genre": "Tarixiy qissa",
+      "price": 32000,
+      "rating": 4.3,
+      "cover": "https://placehold.co/200x280?text=Bo%27ronlarda+bardosh",
+      "description": "Tarixiy shaxslar haqida hujjatli-badiiy qissa."
+    },
+    {
+      "id": 11,
+      "title": "Shum bola",
+      "author": "G'afur G'ulom",
+      "genre": "Bolalar adabiyoti",
+      "price": 22000,
+      "rating": 4.7,
+      "cover": "https://placehold.co/200x280?text=Shum+bola",
+      "description": "Bolalikning quvnoq va o'tkir hikoyalari."
+    },
+    {
+      "id": 12,
+      "title": "Ufq",
+      "author": "Said Ahmad",
+      "genre": "Roman",
+      "price": 33000,
+      "rating": 4.2,
+      "cover": "https://placehold.co/200x280?text=Ufq",
+      "description": "Qishloq hayoti va inson taqdiri haqida roman."
+    }
+  ]
+}
